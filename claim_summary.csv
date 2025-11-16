@@ -1,0 +1,26 @@
+claim_number,decision,explanation,acceptable_decision
+1,DENY,medical document missing,
+10,DENY,the medical certificate states the person is healthy,
+11,APPROVE,,
+12,APPROVE,,
+13,UNCERTAIN,suspicious dating on the document (17/11/2023 stamp),DENY
+14,DENY,medical document states the patient is healthy,
+15,DENY,the name is obscured in the medical document and visible initials do not correspond,
+16,APPROVE,,
+17,DENY,"documentation states the claimant is in good condition, lacks a signature",
+18,DENY,a picture is attached instead of the medical certificate,UNCERTAIN
+19,APPROVE,,
+2,DENY,"medical document missing, the missed the medical appointment is not covered",
+20,UNCERTAIN,no signature on the medical certificate,DENY
+21,DENY,no supporting documentation provided,UNCERTAIN
+22,DENY,the medical certificate states the person is healthy,
+23,UNCERTAIN,the document has weird dating (2016 in the bottom),DENY
+24,UNCERTAIN,minor date problem - appointment is 3 days after the flight,APPROVE
+25,DENY,medical document missing,
+3,APPROVE,,
+4,DENY,name is redacted,
+5,APPROVE,,
+6,UNCERTAIN,"the flight is in 2 weeks from now, it is not clear if the person will still be hospitalized or otherwise unable to fly",
+7,DENY,the document is generally suspicious: stamp with signature seems photoshopped onto a non-printed document. the document mentions that the person was 'discharged on' but does not have the date.,
+8,DENY,the medical document is in text form. this MUST be denied.,
+9,APPROVE,,

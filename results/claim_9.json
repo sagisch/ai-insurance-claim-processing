@@ -1,0 +1,6 @@
+{
+  "claim_id": 9,
+  "decision": "DENY",
+  "confidence": "0.92",
+  "explanation": "The medical certificate is unsigned, undated, lacks treating-physician details and explicitly states the claimant is 'apto para actividad física', which contradicts the stated inability to attend and therefore is incomplete/ inconsistent and does not support a covered medical cancellation."
+}

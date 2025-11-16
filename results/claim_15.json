@@ -1,0 +1,6 @@
+{
+  "claim_id": 15,
+  "decision": "DENY",
+  "confidence": "0.86",
+  "explanation": "Deny — the booking is proven but the supporting medical certificate explicitly states the claimant was in 'perfecto estado de salud' (no medical emergency), the stated reason (administrative/legal delays during a medical visit) is not a covered cancellation reason and there is no police/jury/urgent medical report or other required documentation to justify reimbursement; the evidence is therefore insufficient and partly contradictory."
+}

@@ -1,0 +1,6 @@
+{
+  "claim_id": 17,
+  "decision": "DENY",
+  "confidence": "0.78",
+  "explanation": "The medical certificate is dated three days after the missed trip and does not state the patient was unfit to travel on Feb 2 (it only documents a Feb 5 consultation), and it contains a likely incorrect ICD-10 code (J66 is not sinusitis), creating insufficient and suspicious medical evidence to support a covered medical cancellation."
+}

@@ -1,0 +1,6 @@
+{
+  "claim_id": 18,
+  "decision": "DENY",
+  "confidence": "0.8",
+  "explanation": "The booking/payment evidence is present but the required medical documentation (an authentic dental/medical certificate or report confirming an acute abscess and immediate treatment) was not provided, so the claim is incomplete and cannot be approved under the policy."
+}

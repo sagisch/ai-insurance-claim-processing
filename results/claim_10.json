@@ -1,0 +1,6 @@
+{
+  "claim_id": 10,
+  "decision": "DENY",
+  "confidence": "0.9",
+  "explanation": "Although the booking and no‑show are documented, the claimant has not provided a valid medical certificate or official signed admission/discharge report with dates and physician details (only a selfie outside a hospital is included), so the required supporting medical documentation for a covered medical emergency is missing and the claim cannot be approved."
+}

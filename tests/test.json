@@ -1,0 +1,155 @@
+{
+  "accuracy": 0.72,
+  "claims": [
+    {
+      "claim_id": 1,
+      "decision": "DENY",
+      "confidence": "0.92",
+      "explanation": "The claim is denied because the only document is a booking confirmation that lists a different guest name (naveen kumar) and a non\u2011refundable policy, and the claimant failed to provide the required medical report or other authoritative proof of the alleged emergency, creating insufficient and suspicious documentation."
+    },
+    {
+      "claim_id": 2,
+      "decision": "DENY",
+      "confidence": "0.86",
+      "explanation": "Denied: the provided medical certificate documents a routine fitness check for 'Montserrat Becerril Galv\u00e1n' (not the claimant's daughter LUC\u00cdA FERN\u00c1NDEZ), shows she was clinically healthy (not an emergency), and there is no evidence the appointment actually prevented timely arrival for the flight\u2014creating a critical name/date/timing inconsistency and indicating a non-covered reason or potentially fraudulent/inapplicable documentation."
+    },
+    {
+      "claim_id": 3,
+      "decision": "APPROVE",
+      "confidence": "0.88",
+      "explanation": "The medical certificate from Hospital Vozandes dated 25-Jan-2023 documents an 11:45\u201312:52 visit with a prescribed 12-hour rest and the provided booking confirmation (flight LA1353, 25-Jan-2023 15:10) matches the claimant and fare, satisfying the policy's medical emergency and proof-of-booking requirements with timely, consistent evidence and no clear signs of fabrication."
+    },
+    {
+      "claim_id": 4,
+      "decision": "APPROVE",
+      "confidence": "0.88",
+      "explanation": "Supporting evidence includes a paid booking for 02/12/2022 in the claimant's name and a dated hospital certificate (stamped and signed by Dr Ndama Niang) stating Mme Amy Ndiaye was hospitalized since 01/12/2022 for an abdominal trauma preventing travel, which satisfies the policy requirement for a medical emergency with valid documentation."
+    },
+    {
+      "claim_id": 5,
+      "decision": "UNCERTAIN",
+      "confidence": "0.78",
+      "explanation": "The certificate states hospitalization from 16/12/2023 to 17/12/2023 which would cover the missed flight, but it is dated 17/11/2023 (predating the stay), a clear inconsistency that makes the document suspicious \u2014 request authentic hospital records/discharge summary or a corrected signed certificate with verifiable contact details before approving."
+    },
+    {
+      "claim_id": 6,
+      "decision": "DENY",
+      "confidence": "0.9",
+      "explanation": "The submitted medical certificate (dated 05/09/2018) explicitly indicates no current contraindication to sporting activity (including competition) for Lily Fang and does not state she was unfit to participate or provide a period of incapacity, so the documentation contradicts the claimant's assertion and fails to prove a covered medical inability to attend the paid stage."
+    },
+    {
+      "claim_id": 7,
+      "decision": "DENY",
+      "confidence": "0.87",
+      "explanation": "The submitted pathology report (dated 27.06.2007) documents a medical procedure but the patient name is not clearly the claimant (shows initials/redacted name R.; G. and birthdate), so the supporting documentation is incomplete/suspicious and does not validly link the medical emergency to Roy Hoffman as required by the policy."
+    },
+    {
+      "claim_id": 8,
+      "decision": "APPROVE",
+      "confidence": "0.92",
+      "explanation": "The hospital admission certificate documents an urgent inpatient stay on 14-04-2017 that coincides with the ticket date and the booking/price details are provided and appear authentic and timely, meeting the policy's medical-emergency cancellation requirements."
+    },
+    {
+      "claim_id": 9,
+      "decision": "DENY",
+      "confidence": "0.92",
+      "explanation": "The medical certificate is unsigned, undated, lacks treating-physician details and explicitly states the claimant is 'apto para actividad f\u00edsica', which contradicts the stated inability to attend and therefore is incomplete/ inconsistent and does not support a covered medical cancellation."
+    },
+    {
+      "claim_id": 10,
+      "decision": "DENY",
+      "confidence": "0.9",
+      "explanation": "Although the booking and no\u2011show are documented, the claimant has not provided a valid medical certificate or official signed admission/discharge report with dates and physician details (only a selfie outside a hospital is included), so the required supporting medical documentation for a covered medical emergency is missing and the claim cannot be approved."
+    },
+    {
+      "claim_id": 11,
+      "decision": "APPROVE",
+      "confidence": "0.8",
+      "explanation": "The paid booking for 20 Sep 2013 matches the missed train, and a contemporaneous medical certificate documents an acute gastroenteritis diagnosis on that date with a 72-hour rest recommendation, the claim was reported within days and I find no clear inconsistencies or obvious signs of document tampering."
+    },
+    {
+      "claim_id": 12,
+      "decision": "DENY",
+      "confidence": "0.8",
+      "explanation": "Only a boarding pass is provided \u2014 there is no airline delay/arrival confirmation or incident report and no proof/receipt of the $113 prepaid clinic charge, and under the policy missed-connection claims require documentary evidence of the delay and proof of payment, so the claim is incomplete and cannot be approved."
+    },
+    {
+      "claim_id": 13,
+      "decision": "APPROVE",
+      "confidence": "0.88",
+      "explanation": "The hospital certification (dated 22 Apr 2020) names Yenny Marlen Mendoza Cepeda and confirms hospitalization on the flight date, and the booking document verifies the Avianca flight and payment details\u2014supporting a covered medical-emergency cancellation with no obvious signs of tampering or missing required documentation."
+    },
+    {
+      "claim_id": 14,
+      "decision": "DENY",
+      "confidence": "0.8",
+      "explanation": "Although the booking proof is valid, the claimant did not submit the required medical certificate or hospital report to corroborate the asserted urgent medical emergency (the claimant only states the document 'can be provided upon request'), and under the policy incomplete/suspicious documentation requires denial."
+    },
+    {
+      "claim_id": 15,
+      "decision": "DENY",
+      "confidence": "0.86",
+      "explanation": "Deny \u2014 the booking is proven but the supporting medical certificate explicitly states the claimant was in 'perfecto estado de salud' (no medical emergency), the stated reason (administrative/legal delays during a medical visit) is not a covered cancellation reason and there is no police/jury/urgent medical report or other required documentation to justify reimbursement; the evidence is therefore insufficient and partly contradictory."
+    },
+    {
+      "claim_id": 16,
+      "decision": "APPROVE",
+      "confidence": "0.82",
+      "explanation": "The submitted hospital medical certificate from Hospital Sagrado Coraz\u00f3n de Jes\u00fas documents the daughter (Pillasagua Cano Amarilis Estela) was seen in the emergency department on 14 Dec 2015 with CEFALEA (CIE10:G44.X) and prescribed 24 hours' rest, and the booking confirmation (HTL-77123391) shows a paid reservation for 14\u201316 Dec 2015 under the claimant's family name, satisfying the policy's medical-emergency cancellation requirements; documentation appears consistent and authentic (note minor non-critical date header in the booking document)."
+    },
+    {
+      "claim_id": 17,
+      "decision": "DENY",
+      "confidence": "0.78",
+      "explanation": "The medical certificate is dated three days after the missed trip and does not state the patient was unfit to travel on Feb 2 (it only documents a Feb 5 consultation), and it contains a likely incorrect ICD-10 code (J66 is not sinusitis), creating insufficient and suspicious medical evidence to support a covered medical cancellation."
+    },
+    {
+      "claim_id": 18,
+      "decision": "DENY",
+      "confidence": "0.8",
+      "explanation": "The booking/payment evidence is present but the required medical documentation (an authentic dental/medical certificate or report confirming an acute abscess and immediate treatment) was not provided, so the claim is incomplete and cannot be approved under the policy."
+    },
+    {
+      "claim_id": 19,
+      "decision": "APPROVE",
+      "confidence": "0.78",
+      "explanation": "The hospitalization certificate from Clinique M\u00e9dicale de Bassam (admission 13\u2011Aug\u20112011, urgent surgical intervention for biliary colic/cholelithiasis) and the Air France booking for AF703 on 13\u2011Aug\u20112011 with ticket cost provided are consistent, timely, and meet the policy's required medical proof and booking documentation, with no clear signs of tampering."
+    },
+    {
+      "claim_id": 20,
+      "decision": "APPROVE",
+      "confidence": "0.9",
+      "explanation": "Medical certificate dated 21/12/2022 (stamped and signed) documents incapacity from 22/12/2022 to 24/12/2022 which covers the cancelled 23/12/2022 Brussels\u2013Abidjan flight, and the booking record shows a paid fare with no evident inconsistencies or signs of document tampering."
+    },
+    {
+      "claim_id": 21,
+      "decision": "APPROVE",
+      "confidence": "0.85",
+      "explanation": "The claimant provided a dated, signed and stamped on-site medical note from Dr. Lucini (31/10/2011) stating the claimant was unfit to continue working/ travel the next day, and the booking record shows a paid flight on 01/11/2011, meeting the policy's medical-emergency and proof-of-booking requirements with no clear signs of fabrication."
+    },
+    {
+      "claim_id": 22,
+      "decision": "APPROVE",
+      "confidence": "0.86",
+      "explanation": "The submitted clinic certificate (hospital letter, stamp and signature) names Jorge Luis Velosa Ruiz, gives admission on 22\u201323 July and confirms he was still hospitalized as of 27 July, which, together with the provided booking details for the 15 August flight, supports a covered medical-emergency cancellation and the documentation appears consistent and complete."
+    },
+    {
+      "claim_id": 23,
+      "decision": "APPROVE",
+      "confidence": "0.85",
+      "explanation": "The hospital certificate from Cl\u00ednica S\u00e1nchez Ferrer shows admission on 13 Aug 2015 and is dated 15 Sep 2015 (indicating hospitalization through the planned 13 Sep departure), and the submitted booking record (flight 13 Sep, booking ref LA51073211, paid fare) matches the claimant and trip\u2014together providing authentic, consistent medical and booking evidence for a covered cancellation."
+    },
+    {
+      "claim_id": 24,
+      "decision": "APPROVE",
+      "confidence": "0.92",
+      "explanation": "The submitted hospital admission/discharge record (12/13\u201312/14) with physician signature documents an acute medical emergency and a 48-hour travel restriction that overlaps the 12/14 flight, and the booking confirmation/receipt corroborates the paid reservation, meeting the policy requirements for a covered medical trip cancellation with no apparent inconsistencies."
+    },
+    {
+      "claim_id": 25,
+      "decision": "APPROVE",
+      "confidence": "0.88",
+      "explanation": "The medical certificate from Centro M\u00e9dico Integral NOVAMEDIC clearly documents emergency pterygium surgery on 29-07-2023 with a prescribed 15-day rest (29-07-2023 to 12-08-2023) covering the missed flight date, and the booking record shows the matching passenger name, flight and fare (\u20ac129), so the claim meets policy requirements despite a minor spelling variation in the given name. "
+    }
+  ]
+}

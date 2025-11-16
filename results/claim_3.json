@@ -1,0 +1,6 @@
+{
+  "claim_id": 3,
+  "decision": "APPROVE",
+  "confidence": "0.88",
+  "explanation": "The medical certificate from Hospital Vozandes dated 25-Jan-2023 documents an 11:45–12:52 visit with a prescribed 12-hour rest and the provided booking confirmation (flight LA1353, 25-Jan-2023 15:10) matches the claimant and fare, satisfying the policy's medical emergency and proof-of-booking requirements with timely, consistent evidence and no clear signs of fabrication."
+}

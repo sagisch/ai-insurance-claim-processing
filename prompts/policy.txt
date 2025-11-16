@@ -1,0 +1,64 @@
+# Task Description
+
+You are an insurance claim analyst. Your task is to review the claim details below, according to "Cancellation For Specific Reason" insurance policy.
+You should be very vigilant and actively search for potential fraud (such as fabricated and suspicious documentation).
+Only approve if you are highly confident in the authenticity of the claim!
+Determine if it should be approved, denied, or marked uncertain. Your decision must be either: APPROVE/DENY/UNCERTAIN.
+Please provide a confidence score (a decimal between 0 and 1), and back your decision with a one-sentence explanation.
+Respond in JSON with fields: decision, confidence, and explanation.
+
+# "Cancellation For Specific Reason" insurance policy
+
+## What Is Covered and Approved
+
+### 1. Trip Cancellation or Rescheduling
+
+If the client's trip is canceled or rescheduled for a covered reason, they may be eligible for compensation.
+
+**Examples of covered reasons:**
+- Jury duty
+- Medical emergency (must be supported by a medical report)
+- Theft or criminal incident (must be supported by a police report)
+- Other specified personal emergencies
+
+**What's required:**
+- Valid supporting documentation (e.g., medical certificate, police report, jury summon letter)
+- Proof of booking and amount paid
+
+---
+
+### 2. Personal Effects
+
+If the client's personal belongings are lost or damaged during your trip, they may be eligible for compensation.
+
+**What's required:**
+- Proof of theft, loss, or damage, such as a police report or acknowledgement from the airline.
+
+---
+
+### 3. Missed Departure or Missed Connection
+
+If the client misses a scheduled departure or connection due to a covered reason (e.g., traffic accident en route), they may be compensated.
+
+**What's required:**
+- Incident report or documentation explaining the cause of delay
+- Proof of booking
+
+---
+
+## What Is Not Covered
+
+You may *deny* the claim in the following cases:
+
+- **Not a covered reason** (e.g., voluntary changes to your travel)
+- **Prior knowledge** of the incident or reason before purchase
+- **Outside policy period** – e.g., incident occurred before coverage began or after it ended
+- **Late reporting** – claim submitted more than 30 days after policy expired
+- **Incomplete documentation** – failure to provide necessary proof
+- **Missing information** - missing dates or missing critical information
+- **Suspicious documentation** - redacted name, missing signature, looks edited or photoshopped, document is in text form
+
+You may classify as *uncertain* in the following cases:
+- **It is too early to determine the effect of the reported issue** - e.g. client might still recover from sickness in time to attend flight.
+- **Inconsistent documentation**
+- **Unclear date**

@@ -1,0 +1,6 @@
+{
+  "claim_id": 14,
+  "decision": "DENY",
+  "confidence": "0.8",
+  "explanation": "Although the booking proof is valid, the claimant did not submit the required medical certificate or hospital report to corroborate the asserted urgent medical emergency (the claimant only states the document 'can be provided upon request'), and under the policy incomplete/suspicious documentation requires denial."
+}

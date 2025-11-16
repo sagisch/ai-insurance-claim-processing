@@ -1,0 +1,6 @@
+{
+  "claim_id": 12,
+  "decision": "DENY",
+  "confidence": "0.8",
+  "explanation": "Only a boarding pass is provided — there is no airline delay/arrival confirmation or incident report and no proof/receipt of the $113 prepaid clinic charge, and under the policy missed-connection claims require documentary evidence of the delay and proof of payment, so the claim is incomplete and cannot be approved."
+}

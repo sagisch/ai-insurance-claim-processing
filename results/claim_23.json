@@ -1,0 +1,6 @@
+{
+  "claim_id": 23,
+  "decision": "APPROVE",
+  "confidence": "0.85",
+  "explanation": "The hospital certificate from Clínica Sánchez Ferrer shows admission on 13 Aug 2015 and is dated 15 Sep 2015 (indicating hospitalization through the planned 13 Sep departure), and the submitted booking record (flight 13 Sep, booking ref LA51073211, paid fare) matches the claimant and trip—together providing authentic, consistent medical and booking evidence for a covered cancellation."
+}

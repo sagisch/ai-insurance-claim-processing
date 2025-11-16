@@ -1,0 +1,6 @@
+{
+  "claim_id": 2,
+  "decision": "DENY",
+  "confidence": "0.86",
+  "explanation": "Denied: the provided medical certificate documents a routine fitness check for 'Montserrat Becerril Galván' (not the claimant's daughter LUCÍA FERNÁNDEZ), shows she was clinically healthy (not an emergency), and there is no evidence the appointment actually prevented timely arrival for the flight—creating a critical name/date/timing inconsistency and indicating a non-covered reason or potentially fraudulent/inapplicable documentation."
+}

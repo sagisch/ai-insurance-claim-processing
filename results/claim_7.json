@@ -1,0 +1,6 @@
+{
+  "claim_id": 7,
+  "decision": "DENY",
+  "confidence": "0.87",
+  "explanation": "The submitted pathology report (dated 27.06.2007) documents a medical procedure but the patient name is not clearly the claimant (shows initials/redacted name R.; G. and birthdate), so the supporting documentation is incomplete/suspicious and does not validly link the medical emergency to Roy Hoffman as required by the policy."
+}

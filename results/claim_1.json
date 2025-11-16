@@ -1,0 +1,6 @@
+{
+  "claim_id": 1,
+  "decision": "DENY",
+  "confidence": "0.92",
+  "explanation": "The claim is denied because the only document is a booking confirmation that lists a different guest name (naveen kumar) and a non‑refundable policy, and the claimant failed to provide the required medical report or other authoritative proof of the alleged emergency, creating insufficient and suspicious documentation."
+}

@@ -1,0 +1,6 @@
+{
+  "claim_id": 5,
+  "decision": "UNCERTAIN",
+  "confidence": "0.78",
+  "explanation": "The certificate states hospitalization from 16/12/2023 to 17/12/2023 which would cover the missed flight, but it is dated 17/11/2023 (predating the stay), a clear inconsistency that makes the document suspicious — request authentic hospital records/discharge summary or a corrected signed certificate with verifiable contact details before approving."
+}

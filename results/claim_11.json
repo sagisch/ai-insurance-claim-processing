@@ -1,0 +1,6 @@
+{
+  "claim_id": 11,
+  "decision": "APPROVE",
+  "confidence": "0.8",
+  "explanation": "The paid booking for 20 Sep 2013 matches the missed train, and a contemporaneous medical certificate documents an acute gastroenteritis diagnosis on that date with a 72-hour rest recommendation, the claim was reported within days and I find no clear inconsistencies or obvious signs of document tampering."
+}
