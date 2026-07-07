@@ -72,6 +72,29 @@ Open your browser:
 http://localhost:8000/docs/
 ```
 
+### Running with Docker
+
+Build and run the API in a container (requires Docker):
+
+```bash
+docker compose up --build
+```
+
+This reads `OPENAI_API_KEY` from your shell environment, so set it first:
+
+```bash
+export OPENAI_API_KEY="your_api_key_here"   # PowerShell: $env:OPENAI_API_KEY = "your_api_key_here"
+```
+
+The `results/` and `tests/` directories are mounted so claim results and test runs persist outside the container. Open http://localhost:8000/docs once it's up.
+
+Without Compose:
+
+```bash
+docker build -t claim-processor .
+docker run -p 8000:8000 -e OPENAI_API_KEY="your_api_key_here" claim-processor
+```
+
 ### API Endpoints
 
 | Method | Path               | Description                                          |
